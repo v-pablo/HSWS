@@ -22,7 +22,7 @@ img.signin-img{
 }
 
 form.signin-form{
-    max-width: 350px;
+    max-width: auto;
     margin: auto;
 }
 button.signin-btn{
